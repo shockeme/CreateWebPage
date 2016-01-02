@@ -25,6 +25,8 @@ namespace CreateWebPage
             string ForwardString;
             string BackString;
             int YearNumber = year;
+            
+            // Create Array to hold Months
             string[] MonthArray = new string[12]{"January","February","March","April","May","June","July","August","September","October","November","December"};
 
             string TopOfFile = "<html>\n\n<head>\n<meta http-equiv='Content-Type' content='text/html; charset=windows-1252'>\n<title>New Page 1</title>\n</head>\n\n<body>\n\n";
