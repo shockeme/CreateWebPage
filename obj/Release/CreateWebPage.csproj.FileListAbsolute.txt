@@ -1,0 +1,8 @@
+C:\Projects\CreateWebPage\CreateWebPage\bin\Release\CreateWebPage.exe
+C:\Projects\CreateWebPage\CreateWebPage\bin\Release\CreateWebPage.pdb
+C:\Projects\CreateWebPage\CreateWebPage\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\CreateWebPage\CreateWebPage\obj\Release\CreateWebPage.Form1.resources
+C:\Projects\CreateWebPage\CreateWebPage\obj\Release\CreateWebPage.Properties.Resources.resources
+C:\Projects\CreateWebPage\CreateWebPage\obj\Release\CreateWebPage.csproj.GenerateResource.Cache
+C:\Projects\CreateWebPage\CreateWebPage\obj\Release\CreateWebPage.exe
+C:\Projects\CreateWebPage\CreateWebPage\obj\Release\CreateWebPage.pdb
