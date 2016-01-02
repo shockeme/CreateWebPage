@@ -72,6 +72,8 @@ namespace CreateWebPage
             MessageBox.Show("Done");
         }
     
+
+        // Subroutine that takes a month and year, creates the calendar, and returns it in a string
         string html_month_calendar(int month, int year)
         {
             int DaysInAMonth = DateTime.DaysInMonth(year, month);
