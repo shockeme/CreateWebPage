@@ -32,6 +32,7 @@ namespace CreateWebPage
             string TopOfFile = "<html>\n\n<head>\n<meta http-equiv='Content-Type' content='text/html; charset=windows-1252'>\n<title>New Page 1</title>\n</head>\n\n<body>\n\n";
             string BottomOfFile = "\n</body>\n\n</html>";
 
+            // Start writing to the calendar string
             calendar = TopOfFile;
 
 	        string BackArrow = "<img border='0' src='images/left_arrow.jpg' width='27' height='27'></a>";
